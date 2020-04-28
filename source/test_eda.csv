@@ -1,0 +1,419 @@
+PassengerId,Pclass,Sex,SibSp,Parch,Embarked,FamilySize,IsAlone,FareGroup,InCabin,Deck,RoomGroup,AgeGroup,Title
+892,3,True,0,0,Q,1,1,A,False,N,r1,Student,Mr
+893,3,False,1,0,S,2,0,A,False,N,r1,Adult,Mrs
+894,2,True,0,0,Q,1,1,B,False,N,r1,Young Adult,Mr
+895,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+896,3,False,1,1,S,3,0,B,False,N,r1,Young Adult,Mrs
+897,3,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+898,3,False,0,0,Q,1,1,A,False,N,r1,Adult,Miss
+899,2,True,1,1,S,3,0,C,False,N,r1,Baby,Mr
+900,3,False,0,0,C,1,1,A,False,N,r1,Young Adult,Mrs
+901,3,True,2,0,S,3,0,C,False,N,r1,Teenager,Mr
+902,3,True,0,0,S,1,1,A,False,N,r1,Baby,Mr
+903,1,True,0,0,S,1,1,C,False,N,r1,Adult,Mr
+904,1,False,1,0,S,2,0,D,True,B,r1,Student,Mrs
+905,2,True,1,0,S,2,0,C,False,N,r1,Adult,Mr
+906,1,False,1,0,S,2,0,D,True,E,r1,Teenager,Mrs
+907,2,False,1,0,C,2,0,C,False,N,r1,Adult,Mrs
+908,2,True,0,0,Q,1,1,B,False,N,r1,Baby,Mr
+909,3,True,0,0,C,1,1,A,False,N,r1,Unknown,Mr
+910,3,False,1,0,S,2,0,B,False,N,r1,Young Adult,Miss
+911,3,False,0,0,C,1,1,A,False,N,r1,Unknown,Mrs
+912,1,True,1,0,C,2,0,D,False,N,r1,Young Adult,Mr
+913,3,True,0,1,S,2,0,A,False,N,r1,Young Adult,Master
+914,1,False,0,0,S,1,1,D,False,N,r1,Teenager,Mrs
+915,1,True,0,1,C,2,0,D,False,N,r1,Young Adult,Mr
+916,1,False,1,3,C,5,0,D,True,B,r2,Child,Mrs
+917,3,True,1,0,S,2,0,C,False,N,r1,Adult,Mr
+918,1,False,0,1,C,2,0,D,True,B,r1,Unknown,Miss
+919,3,True,0,0,C,1,1,A,False,N,r1,Student,Mr
+920,1,True,0,0,S,1,1,C,True,A,r1,Unknown,Mr
+921,3,True,2,0,C,3,0,C,False,N,r1,Unknown,Mr
+922,2,True,1,0,S,2,0,C,False,N,r1,Adult,Mr
+923,2,True,2,0,S,3,0,C,False,N,r1,Unknown,Mr
+924,3,False,1,2,S,4,0,C,False,N,r1,Unknown,Mrs
+925,3,False,1,2,S,4,0,C,False,N,r1,Senior,Mrs
+926,1,True,1,0,C,2,0,D,True,C,r3,Young Adult,Mr
+927,3,True,0,0,C,1,1,A,False,N,r1,Adult,Mr
+928,3,False,0,0,S,1,1,B,False,N,r1,Unknown,Miss
+929,3,False,0,0,S,1,1,B,False,N,r1,Student,Miss
+930,3,True,0,0,S,1,1,B,False,N,r1,Teenager,Mr
+931,3,True,0,0,S,1,1,D,False,N,r1,Teenager,Mr
+932,3,True,0,1,C,2,0,B,False,N,r1,Adult,Mr
+933,1,True,0,0,S,1,1,C,True,D,r1,Young Adult,Mr
+934,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+935,2,False,0,0,S,1,1,B,False,N,r1,Baby,Mrs
+936,1,False,1,0,S,2,0,D,True,D,r1,Student,Mrs
+937,3,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+938,1,True,0,0,C,1,1,C,True,A,r1,Unknown,Mr
+939,3,True,0,0,Q,1,1,A,False,N,r1,Unknown,Mr
+940,1,False,0,0,C,1,1,D,True,D,r1,Unknown,Mrs
+941,3,False,0,2,S,3,0,C,False,N,r1,Teenager,Mrs
+942,1,True,1,0,S,2,0,D,True,C,r1,Child,Mr
+943,2,True,0,0,C,1,1,C,False,N,r1,Student,Mr
+944,2,False,2,1,S,4,0,C,False,N,r1,Adult,Miss
+945,1,False,3,2,S,6,0,D,True,C,r1,Young Adult,Miss
+946,2,True,0,0,C,1,1,C,False,N,r1,Senior,Mr
+947,3,True,4,1,Q,6,0,C,False,N,r1,Unknown,Master
+948,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+949,3,True,0,0,S,1,1,A,True,F,r2,Young Adult,Mr
+950,3,True,1,0,S,2,0,C,False,N,r1,Baby,Mr
+951,1,False,0,0,C,1,1,D,True,B,r2,Child,Miss
+952,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+953,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+954,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+955,3,False,0,0,Q,1,1,A,False,N,r1,Baby,Miss
+956,1,True,2,2,C,5,0,D,True,B,r2,Unknown,Master
+957,2,False,0,0,S,1,1,C,False,N,r1,Unknown,Mrs
+958,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+959,1,True,0,0,S,1,1,D,False,N,r1,Student,Mr
+960,1,True,0,0,C,1,1,C,True,C,r2,Teenager,Mr
+961,1,False,1,4,S,6,0,D,True,C,r1,Young Adult,Mrs
+962,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+963,3,True,0,0,S,1,1,A,False,N,r1,Teenager,Mr
+964,3,False,0,0,S,1,1,B,False,N,r1,Student,Miss
+965,1,True,0,0,C,1,1,C,True,D,r1,Young Adult,Mr
+966,1,False,0,0,C,1,1,D,True,C,r4,Young Adult,Miss
+967,1,True,0,0,C,1,1,D,True,C,r4,Young Adult,Mr
+968,3,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+969,1,False,2,0,S,3,0,C,True,C,r4,Unknown,Mrs
+970,2,True,0,0,S,1,1,B,False,N,r1,Baby,Mr
+971,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+972,3,True,1,1,C,3,0,C,False,N,r1,Student,Master
+973,1,True,1,0,S,2,0,D,True,C,r2,Young Adult,Mr
+974,1,True,0,0,S,1,1,C,False,N,r1,Unknown,Mr
+975,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+976,2,True,0,0,Q,1,1,B,False,N,r1,Teenager,Mr
+977,3,True,1,0,C,2,0,B,False,N,r1,Young Adult,Mr
+978,3,False,0,0,Q,1,1,A,False,N,r1,Teenager,Miss
+979,3,False,0,0,S,1,1,B,False,N,r1,Unknown,Miss
+980,3,False,0,0,Q,1,1,A,False,N,r1,Student,Miss
+981,2,True,1,1,S,3,0,C,False,N,r1,Student,Master
+982,3,False,1,0,S,2,0,B,False,N,r1,Young Adult,Mrs
+983,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+984,1,False,1,2,S,4,0,D,True,B,r2,Adult,Mrs
+985,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+986,1,True,0,0,C,1,1,C,False,N,r1,Adult,Mr
+987,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+988,1,False,1,0,S,2,0,D,True,C,r1,Senior,Mrs
+989,3,True,0,0,S,1,1,B,False,N,r1,Student,Mr
+990,3,False,0,0,S,1,1,A,False,N,r1,Young Adult,Miss
+991,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+992,1,False,1,0,C,2,0,D,True,C,r4,Young Adult,Mrs
+993,2,True,1,0,S,2,0,C,False,N,r1,Unknown,Mr
+994,3,True,0,0,Q,1,1,A,False,N,r1,Student,Mr
+995,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+996,3,False,1,1,C,3,0,B,False,N,r1,Adult,Mrs
+997,3,True,0,0,S,1,1,C,False,N,r1,Young Adult,Mr
+998,3,True,0,0,Q,1,1,A,False,N,r1,Student,Mr
+999,3,True,0,0,Q,1,1,A,False,N,r1,Unknown,Mr
+1000,3,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1001,2,True,0,0,S,1,1,B,True,F,r1,Unknown,Mr
+1002,2,True,0,0,C,1,1,C,False,N,r1,Adult,Mr
+1003,3,False,0,0,Q,1,1,A,False,N,r1,Teenager,Miss
+1004,1,False,0,0,C,1,1,D,True,A,r1,Student,Miss
+1005,3,False,0,0,Q,1,1,A,False,N,r1,Student,Miss
+1006,1,False,1,0,S,2,0,D,True,C,r2,Teenager,Mrs
+1007,3,True,1,0,C,2,0,B,False,N,r1,Student,Mr
+1008,3,True,0,0,C,1,1,A,False,N,r1,Senior,Mr
+1009,3,False,1,1,S,3,0,C,True,G,r1,Young Adult,Miss
+1010,1,True,0,0,C,1,1,D,True,C,r1,Student,Mr
+1011,2,False,1,0,S,2,0,C,False,N,r1,Baby,Mrs
+1012,2,False,0,0,S,1,1,C,False,N,r1,Student,Miss
+1013,3,True,1,0,Q,2,0,A,False,N,r1,Unknown,Mr
+1014,1,False,1,0,C,2,0,D,True,C,r1,Young Adult,Mrs
+1015,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1016,3,True,0,0,Q,1,1,A,False,N,r1,Adult,Mr
+1017,3,False,0,1,S,2,0,C,False,N,r1,Child,Miss
+1018,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1019,3,False,2,0,Q,3,0,C,False,N,r1,Student,Miss
+1020,2,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1021,3,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1022,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1023,1,True,0,0,C,1,1,C,True,C,r2,Student,Rare
+1024,3,False,0,4,S,5,0,C,False,N,r1,Adult,Mrs
+1025,3,True,1,0,C,2,0,A,False,N,r1,Young Adult,Mr
+1026,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1027,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+1028,3,True,0,0,C,1,1,A,False,N,r1,Student,Mr
+1029,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1030,3,False,0,0,S,1,1,B,False,N,r1,Teenager,Miss
+1031,3,True,1,6,S,8,0,D,False,N,r1,Student,Mr
+1032,3,False,5,2,S,8,0,D,False,N,r1,Unknown,Miss
+1033,1,False,0,0,S,1,1,D,False,N,r1,Student,Miss
+1034,1,True,1,3,C,5,0,D,True,B,r2,Student,Mr
+1035,2,True,0,0,S,1,1,C,False,N,r1,Student,Mr
+1036,1,True,0,0,S,1,1,C,False,N,r1,Teenager,Mr
+1037,3,True,3,0,S,4,0,C,False,N,r1,Student,Mr
+1038,1,True,0,0,S,1,1,D,True,E,r1,Young Adult,Mr
+1039,3,True,0,0,S,1,1,B,False,N,r1,Child,Mr
+1040,1,True,0,0,S,1,1,C,False,N,r1,Adult,Mr
+1041,2,True,1,1,S,3,0,C,False,N,r1,Adult,Rare
+1042,1,False,0,1,C,2,0,D,True,C,r2,Adult,Mrs
+1043,3,True,0,0,C,1,1,A,False,N,r1,Student,Mr
+1044,3,True,0,0,S,1,1,,False,N,r1,Adult,Mr
+1045,3,False,0,2,S,3,0,B,False,N,r1,Adult,Mrs
+1046,3,True,4,2,S,7,0,C,False,N,r1,Unknown,Master
+1047,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1048,1,False,0,0,S,1,1,D,True,C,r3,Teenager,Miss
+1049,3,False,0,0,S,1,1,A,False,N,r1,Young Adult,Miss
+1050,1,True,0,0,S,1,1,C,True,D,r1,Unknown,Mr
+1051,3,False,0,2,S,3,0,B,False,N,r1,Unknown,Mrs
+1052,3,False,0,0,Q,1,1,A,False,N,r1,Adult,Miss
+1053,3,True,1,1,C,3,0,C,False,N,r1,Adult,Master
+1054,2,False,0,0,S,1,1,B,False,N,r1,Young Adult,Miss
+1055,3,True,0,0,S,1,1,A,False,N,r1,Teenager,Mr
+1056,2,True,0,0,S,1,1,B,False,N,r1,Baby,Rare
+1057,3,False,1,1,S,3,0,C,False,N,r1,Child,Mrs
+1058,1,True,0,0,C,1,1,D,True,B,r1,Unknown,Mr
+1059,3,True,2,2,S,5,0,D,False,N,r1,Adult,Mr
+1060,1,False,0,0,C,1,1,C,False,N,r1,Unknown,Mrs
+1061,3,False,0,0,S,1,1,B,False,N,r1,Young Adult,Miss
+1062,3,True,0,0,S,1,1,A,False,N,r1,Senior,Mr
+1063,3,True,0,0,C,1,1,A,False,N,r1,Baby,Mr
+1064,3,True,1,0,S,2,0,B,False,N,r1,Baby,Mr
+1065,3,True,0,0,C,1,1,A,False,N,r1,Student,Mr
+1066,3,True,1,5,S,7,0,C,False,N,r1,Adult,Mr
+1067,2,False,0,2,S,3,0,D,False,N,r1,Teenager,Miss
+1068,2,False,0,0,S,1,1,D,False,N,r1,Unknown,Miss
+1069,1,True,1,0,C,2,0,D,True,C,r4,Adult,Mr
+1070,2,False,0,3,S,4,0,D,True,F,r1,Young Adult,Mrs
+1071,1,False,0,2,C,3,0,D,True,E,r1,Adult,Mrs
+1072,2,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1073,1,True,1,1,C,3,0,D,True,E,r2,Unknown,Mr
+1074,1,False,1,0,S,2,0,D,True,D,r1,Child,Mrs
+1075,3,True,0,0,Q,1,1,A,False,N,r1,Baby,Mr
+1076,1,False,1,1,C,3,0,D,True,B,r2,Baby,Mrs
+1077,2,True,0,0,S,1,1,C,False,N,r1,Unknown,Mr
+1078,2,False,0,1,S,2,0,C,False,N,r1,Unknown,Miss
+1079,3,True,2,0,S,3,0,B,False,N,r1,Adult,Mr
+1080,3,False,8,2,S,11,0,D,False,N,r1,Adult,Miss
+1081,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1082,2,True,1,0,S,2,0,C,False,N,r1,Young Adult,Mr
+1083,1,True,0,0,S,1,1,C,False,N,r1,Student,Mr
+1084,3,True,1,1,S,3,0,C,False,N,r1,Student,Master
+1085,2,True,0,0,Q,1,1,B,False,N,r1,Baby,Mr
+1086,2,True,0,2,S,3,0,D,False,N,r1,Adult,Master
+1087,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1088,1,True,0,2,C,3,0,D,True,E,r1,Unknown,Master
+1089,3,False,0,0,S,1,1,A,False,N,r1,Adult,Miss
+1090,2,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1091,3,False,0,0,S,1,1,B,False,N,r1,Student,Mrs
+1092,3,False,0,0,Q,1,1,C,False,N,r1,Young Adult,Miss
+1093,3,True,0,2,S,3,0,B,False,N,r1,Unknown,Master
+1094,1,True,1,0,C,2,0,D,True,C,r2,Young Adult,Rare
+1095,2,False,1,1,S,3,0,C,False,N,r1,Adult,Miss
+1096,2,True,0,0,S,1,1,B,False,N,r1,Teenager,Mr
+1097,1,True,0,0,C,1,1,C,False,N,r1,Baby,Mr
+1098,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+1099,2,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1100,1,False,0,0,C,1,1,C,True,A,r1,Teenager,Miss
+1101,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1102,3,True,0,0,S,1,1,C,False,N,r1,Student,Mr
+1103,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1104,2,True,0,0,S,1,1,D,False,N,r1,Student,Mr
+1105,2,False,1,0,S,2,0,C,False,N,r1,Young Adult,Mrs
+1106,3,False,4,2,S,7,0,A,False,N,r1,Unknown,Miss
+1107,1,True,0,0,S,1,1,D,True,B,r1,Young Adult,Mr
+1108,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+1109,1,True,1,1,S,3,0,D,False,N,r1,Adult,Mr
+1110,1,False,1,1,C,3,0,D,True,C,r3,Young Adult,Mrs
+1111,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1112,2,False,1,0,C,2,0,B,False,N,r1,Teenager,Miss
+1113,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1114,2,False,0,0,S,1,1,B,True,F,r1,Adult,Mrs
+1115,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1116,1,False,0,0,C,1,1,C,False,N,r1,Adult,Mrs
+1117,3,False,0,2,C,3,0,C,False,N,r1,Student,Mrs
+1118,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+1119,3,False,0,0,Q,1,1,A,False,N,r1,Student,Miss
+1120,3,True,0,0,S,1,1,C,False,N,r1,Teenager,Mr
+1121,2,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1122,2,True,0,0,S,1,1,D,False,N,r1,Young Adult,Mr
+1123,1,False,0,0,S,1,1,C,False,N,r1,Young Adult,Miss
+1124,3,True,1,0,S,2,0,A,False,N,r1,Adult,Mr
+1125,3,True,0,0,Q,1,1,A,False,N,r1,Baby,Mr
+1126,1,True,1,0,C,2,0,D,True,C,r3,Student,Mr
+1127,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1128,1,True,1,0,C,2,0,D,True,D,r1,Adult,Mr
+1129,3,True,0,0,C,1,1,A,False,N,r1,Child,Mr
+1130,2,False,1,1,S,3,0,B,False,N,r1,Student,Miss
+1131,1,False,1,0,C,2,0,D,True,C,r3,Young Adult,Mrs
+1132,1,False,0,0,C,1,1,C,False,N,r1,Unknown,Mrs
+1133,2,False,0,2,S,3,0,C,False,N,r1,Unknown,Mrs
+1134,1,True,1,1,C,3,0,D,True,E,r1,Young Adult,Mr
+1135,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+1136,3,True,1,2,S,4,0,C,False,N,r1,Young Adult,Master
+1137,1,True,1,0,S,2,0,D,True,D,r1,Adult,Mr
+1138,2,False,0,0,S,1,1,C,False,N,r1,Young Adult,Mrs
+1139,2,True,1,1,S,3,0,D,False,N,r1,Student,Mr
+1140,2,False,1,0,S,2,0,C,False,N,r1,Adult,Mrs
+1141,3,False,1,0,C,2,0,B,False,N,r1,Adult,Mrs
+1142,2,False,1,2,S,4,0,C,False,N,r1,Unknown,Miss
+1143,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1144,1,True,1,0,C,2,0,D,True,C,r3,Senior,Mr
+1145,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1146,3,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1147,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1148,3,True,0,0,Q,1,1,A,False,N,r1,Unknown,Mr
+1149,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1150,2,False,0,0,S,1,1,B,False,N,r1,Young Adult,Miss
+1151,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1152,3,True,1,0,S,2,0,C,False,N,r1,Unknown,Mr
+1153,3,True,0,0,S,1,1,A,False,N,r1,Baby,Mr
+1154,2,False,0,2,S,3,0,C,False,N,r1,Adult,Mrs
+1155,3,False,1,1,S,3,0,B,False,N,r1,Adult,Miss
+1156,2,True,0,0,C,1,1,B,False,N,r1,Unknown,Mr
+1157,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1158,1,True,0,0,S,1,1,A,False,N,r1,Teenager,Mr
+1159,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1160,3,False,0,0,S,1,1,B,False,N,r1,Adult,Miss
+1161,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1162,1,True,0,0,C,1,1,D,True,C,r1,Unknown,Mr
+1163,3,True,0,0,Q,1,1,A,False,N,r1,Young Adult,Mr
+1164,1,False,1,0,C,2,0,D,True,C,r3,Adult,Mrs
+1165,3,False,1,0,Q,2,0,C,False,N,r1,Adult,Miss
+1166,3,True,0,0,C,1,1,A,False,N,r1,Unknown,Mr
+1167,2,False,1,0,S,2,0,C,False,N,r1,Senior,Miss
+1168,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1169,2,True,1,0,S,2,0,C,False,N,r1,Unknown,Mr
+1170,2,True,1,0,S,2,0,C,False,N,r1,Child,Mr
+1171,2,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1172,3,False,0,0,S,1,1,B,False,N,r1,Senior,Miss
+1173,3,True,1,1,S,3,0,B,False,N,r1,Young Adult,Master
+1174,3,False,0,0,Q,1,1,A,False,N,r1,Teenager,Miss
+1175,3,False,1,1,C,3,0,C,False,N,r1,Student,Miss
+1176,3,False,1,1,S,3,0,C,False,N,r1,Unknown,Miss
+1177,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1178,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1179,1,True,1,0,S,2,0,D,True,B,r1,Student,Mr
+1180,3,True,0,0,C,1,1,A,True,F,r1,Adult,Mr
+1181,3,True,0,0,S,1,1,B,False,N,r1,Student,Mr
+1182,1,True,0,0,S,1,1,D,False,N,r1,Young Adult,Mr
+1183,3,False,0,0,Q,1,1,A,False,N,r1,Student,Miss
+1184,3,True,0,0,C,1,1,A,False,N,r1,Adult,Mr
+1185,1,True,1,1,S,3,0,D,True,A,r1,Student,Rare
+1186,3,True,0,0,S,1,1,B,False,N,r1,Student,Mr
+1187,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1188,2,False,1,2,C,4,0,D,False,N,r1,Student,Miss
+1189,3,True,2,0,C,3,0,C,False,N,r1,Baby,Mr
+1190,1,True,0,0,S,1,1,D,False,N,r1,Unknown,Mr
+1191,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1192,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1193,2,True,0,0,C,1,1,C,True,D,r1,Unknown,Mr
+1194,2,True,0,1,S,2,0,C,False,N,r1,Student,Mr
+1195,3,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1196,3,False,0,0,Q,1,1,A,False,N,r1,Unknown,Miss
+1197,1,False,1,1,S,3,0,C,True,B,r1,Baby,Mrs
+1198,1,True,1,2,S,4,0,D,True,C,r1,Unknown,Mr
+1199,3,True,0,1,S,2,0,B,False,N,r1,Teenager,Master
+1200,1,True,1,1,S,3,0,D,True,B,r2,Young Adult,Mr
+1201,3,False,1,0,S,2,0,B,False,N,r1,Young Adult,Mrs
+1202,3,True,0,0,S,1,1,B,False,N,r1,Student,Mr
+1203,3,True,0,0,C,1,1,A,False,N,r1,Teenager,Mr
+1204,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1205,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+1206,1,False,0,0,C,1,1,D,True,C,r1,Adult,Mrs
+1207,3,False,0,0,Q,1,1,A,False,N,r1,Young Adult,Miss
+1208,1,True,1,0,C,2,0,D,True,B,r3,Student,Mr
+1209,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1210,3,True,0,0,S,1,1,A,False,N,r1,Young Adult,Mr
+1211,2,True,2,0,S,3,0,C,False,N,r1,Adult,Mr
+1212,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+1213,3,True,0,0,C,1,1,A,True,F,r2,Young Adult,Mr
+1214,2,True,0,0,S,1,1,B,True,F,r1,Young Adult,Mr
+1215,1,True,0,0,S,1,1,C,False,N,r1,Student,Mr
+1216,1,False,0,0,S,1,1,D,False,N,r1,Unknown,Miss
+1217,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1218,2,False,2,1,S,4,0,D,True,F,r1,Senior,Miss
+1219,1,True,0,0,C,1,1,D,False,N,r1,Adult,Mr
+1220,2,True,1,0,S,2,0,C,False,N,r1,Young Adult,Mr
+1221,2,True,0,0,S,1,1,B,False,N,r1,Teenager,Mr
+1222,2,False,0,2,S,3,0,D,False,N,r1,Unknown,Mrs
+1223,1,True,0,0,C,1,1,C,True,A,r1,Adult,Mr
+1224,3,True,0,0,C,1,1,A,False,N,r1,Adult,Mr
+1225,3,False,1,1,C,3,0,C,False,N,r1,Teenager,Mrs
+1226,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1227,1,True,0,0,S,1,1,C,True,C,r4,Unknown,Mr
+1228,2,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1229,3,True,0,2,C,3,0,A,False,N,r1,Adult,Mr
+1230,2,True,0,0,S,1,1,C,False,N,r1,Adult,Mr
+1231,3,True,0,0,C,1,1,A,False,N,r1,Adult,Master
+1232,2,True,0,0,S,1,1,B,False,N,r1,Baby,Mr
+1233,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+1234,3,True,1,9,S,11,0,D,False,N,r1,Young Adult,Mr
+1235,1,False,0,1,C,2,0,D,True,B,r2,Young Adult,Mrs
+1236,3,True,1,1,S,3,0,C,False,N,r1,Adult,Master
+1237,3,False,0,0,S,1,1,A,False,N,r1,Student,Miss
+1238,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1239,3,False,0,0,C,1,1,A,False,N,r1,Unknown,Mrs
+1240,2,True,0,0,S,1,1,B,False,N,r1,Baby,Mr
+1241,2,False,0,0,S,1,1,C,False,N,r1,Adult,Miss
+1242,1,False,0,1,C,2,0,D,True,D,r1,Student,Mrs
+1243,2,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1244,2,True,0,0,S,1,1,D,False,N,r1,Teenager,Mr
+1245,2,True,1,2,S,4,0,D,False,N,r1,Young Adult,Mr
+1246,3,False,1,2,S,4,0,C,False,N,r1,Unknown,Miss
+1247,1,True,0,0,S,1,1,C,True,E,r2,Young Adult,Mr
+1248,1,False,2,0,S,3,0,D,True,C,r4,Student,Mrs
+1249,3,True,0,0,S,1,1,A,False,N,r1,Adult,Mr
+1250,3,True,0,0,Q,1,1,A,False,N,r1,Unknown,Mr
+1251,3,False,1,0,S,2,0,C,False,N,r1,Unknown,Mrs
+1252,3,True,8,2,S,11,0,D,False,N,r1,Adult,Master
+1253,2,False,1,1,C,3,0,D,False,N,r1,Young Adult,Mrs
+1254,2,False,0,0,S,1,1,C,False,N,r1,Adult,Mrs
+1255,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1256,1,False,1,0,C,2,0,D,True,E,r1,Unknown,Mrs
+1257,3,False,1,9,S,11,0,D,False,N,r1,Young Adult,Mrs
+1258,3,True,1,0,C,2,0,C,False,N,r1,Adult,Mr
+1259,3,False,0,0,S,1,1,D,False,N,r1,Unknown,Miss
+1260,1,False,0,1,C,2,0,D,False,N,r1,Unknown,Mrs
+1261,2,True,0,0,C,1,1,B,False,N,r1,Student,Mr
+1262,2,True,1,0,S,2,0,B,False,N,r1,Young Adult,Mr
+1263,1,False,0,0,C,1,1,D,True,E,r1,Teenager,Miss
+1264,1,True,0,0,S,1,1,A,True,B,r2,Student,Mr
+1265,2,True,0,0,S,1,1,B,False,N,r1,Student,Mr
+1266,1,False,1,1,S,3,0,D,True,A,r1,Baby,Mrs
+1267,1,False,0,0,C,1,1,D,False,N,r1,Unknown,Miss
+1268,3,False,2,0,S,3,0,B,False,N,r1,Student,Miss
+1269,2,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1270,1,True,0,0,S,1,1,D,True,C,r1,Student,Mr
+1271,3,True,4,2,S,7,0,C,False,N,r1,Student,Master
+1272,3,True,0,0,Q,1,1,A,False,N,r1,Adult,Mr
+1273,3,True,0,0,Q,1,1,A,False,N,r1,Baby,Mr
+1274,3,False,0,0,S,1,1,C,False,N,r1,Young Adult,Mrs
+1275,3,False,1,0,S,2,0,C,False,N,r1,Young Adult,Mrs
+1276,2,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1277,2,False,1,2,S,4,0,D,False,N,r1,Teenager,Miss
+1278,3,True,0,0,S,1,1,A,False,N,r1,Baby,Mr
+1279,2,True,0,0,S,1,1,B,False,N,r1,Adult,Mr
+1280,3,True,0,0,Q,1,1,A,False,N,r1,Unknown,Mr
+1281,3,True,3,1,S,5,0,C,False,N,r1,Teenager,Master
+1282,1,True,0,0,S,1,1,D,True,B,r1,Adult,Mr
+1283,1,False,0,1,S,2,0,D,True,D,r1,Student,Mrs
+1284,3,True,0,2,S,3,0,C,False,N,r1,Young Adult,Master
+1285,2,True,0,0,S,1,1,B,False,N,r1,Student,Mr
+1286,3,True,3,1,S,5,0,C,False,N,r1,Student,Mr
+1287,1,False,1,0,S,2,0,D,True,C,r1,Student,Mrs
+1288,3,True,0,0,Q,1,1,A,False,N,r1,Young Adult,Mr
+1289,1,False,1,1,C,3,0,D,True,B,r1,Adult,Mrs
+1290,3,True,0,0,S,1,1,A,False,N,r1,Student,Mr
+1291,3,True,0,0,Q,1,1,A,False,N,r1,Young Adult,Mr
+1292,1,False,0,0,S,1,1,D,True,C,r1,Adult,Miss
+1293,2,True,1,0,S,2,0,C,False,N,r1,Young Adult,Mr
+1294,1,False,0,1,C,2,0,D,False,N,r1,Student,Miss
+1295,1,True,0,0,S,1,1,D,False,N,r1,Young Adult,Mr
+1296,1,True,1,0,C,2,0,C,True,D,r1,Student,Mr
+1297,2,True,0,0,C,1,1,B,True,D,r1,Young Adult,Mr
+1298,2,True,1,0,S,2,0,B,False,N,r1,Adult,Mr
+1299,1,True,1,1,C,3,0,D,True,C,r3,Baby,Mr
+1300,3,False,0,0,Q,1,1,A,False,N,r1,Student,Miss
+1301,3,False,1,1,S,3,0,B,False,N,r1,Unknown,Miss
+1302,3,False,0,0,Q,1,1,A,False,N,r1,Unknown,Miss
+1303,1,False,1,0,Q,2,0,D,True,C,r3,Unknown,Mrs
+1304,3,False,0,0,S,1,1,A,False,N,r1,Young Adult,Miss
+1305,3,True,0,0,S,1,1,B,False,N,r1,Unknown,Mr
+1306,1,False,0,0,C,1,1,D,True,C,r4,Adult,Rare
+1307,3,True,0,0,S,1,1,A,False,N,r1,Unknown,Mr
+1308,3,True,0,0,S,1,1,B,False,N,r1,Young Adult,Mr
+1309,3,True,1,1,C,3,0,C,False,N,r1,Teenager,Master
