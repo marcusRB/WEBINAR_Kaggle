@@ -1,15 +1,15 @@
 # WEBINAR Kaggle - Data Science nivel 1
 
-
-#######
+* * *
 versión 1.2 - 28042020
 - mejora EDA
 - creación Feature Engineering
 - mejora LR
 - mejor DT
-######
 
 
+
+* * *
 Tanto si ya tienes algo de experiencia en Data Analytics como si no, no puedes perderte este evento de Data Science en el que trabajaremos directamente en la plataforma Kaggle con Python. Haremos el reto más "famoso", pero también descubriremos métodos y técnicas útiles para otros retos. ¡Por cierto! habrá un premio para el primero.
 
 Se requiere la instalación previa en vuestro ordenador del programa Anaconda, Docker con Jupyter y Visual Studio. No dudes en contactar con nosotros antes del Webinar por si necesitas instalar alguna herramienta adicional.
